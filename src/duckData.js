@@ -4,7 +4,7 @@ const duckData = [
     name: "Dufy",
     legs: "2",
     age: "1",
-    img: "http://akrepnalan.com/nalan_imaj/!cid_002901c2f83d$43ee9d40$275dfea9@ekipkimya.gif",
+    img: "https://petfiks.com/wp-content/uploads/2021/05/yavru-ordek-ne-yer.jpg",
     body: "lorem ipsum",
   },
   {

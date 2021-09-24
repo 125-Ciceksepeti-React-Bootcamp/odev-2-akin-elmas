@@ -26,6 +26,14 @@ header {
     background: transparent;
   }
 }
+footer {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px 5%;
+  background-color: #3d3f43;
+}
 .cards {
   margin: 0 auto;
   max-width: 100%;
